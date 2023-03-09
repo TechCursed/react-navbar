@@ -5,11 +5,11 @@ The topics I learned creating this repo are:
 
 ## ReactBootstrap Library
 
-A ver simple way of creating a Responsive Navbar with the help of ReactBootstrap Library.
+ReactBootstrap Library is a very simple way of creating a Responsive Navbar in react.
 
 In order to install the dependency, use :  <strong> *npm i react-bootstrap bootstrap* </strong>
 
 ## React Router DOM
 
-React Router DOM dependency is used for the routing purposes in React, it's really helpful dealing with links througout the whole react app.
+React Router DOM dependency is used for the routing purposes in React, it's really helpful in dealing with links througout the whole react app.
 
